@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>loading...</title>
+    <script type="text/javascript">
+        // Redirect to another URL
+        window.onload = function() {
+            // Set the URL you want to redirect to
+            var targetUrl = "https://go.fiverr.com/visit/?bta=1062014&brand=fp&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsearch%252Fgigs%253Fquery%253Dyoutube%252520video%252520editing%2526source%253Ddrop_down_filters%2526acmpl%253D1%2526search_in%253Deverywhere%2526search-autocomplete-original-term%253Dyoutube%252520video%252520%2526search-autocomplete-available%253Dtrue%2526search-autocomplete-type%253Dsuggest%2526search-autocomplete-position%253D1%2526ref_ctx_id%253D5c9ce797b8ae47ef959543d21f9f14d6%2526ref%253Dpricing_factor%25253A4%25257Cseller_level%25253Atop_rated_seller%25252Clevel_two_seller%25252Clevel_one_seller";
+            // Redirect immediately
+            window.location.href = targetUrl;
+        };
+    </script>
+</head>
+</html>
